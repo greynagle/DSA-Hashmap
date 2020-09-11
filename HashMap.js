@@ -87,4 +87,4 @@ class HashMap {
     }
 }
 
-modules.export = { HashMap }
+modules.export = { HashMap };
